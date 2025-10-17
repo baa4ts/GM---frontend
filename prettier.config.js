@@ -4,6 +4,7 @@
  */
 
 const config = {
+  endOfLine: "crlf",
   plugins: ["prettier-plugin-tailwindcss"],
 };
 
